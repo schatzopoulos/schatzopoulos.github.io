@@ -1,5 +1,33 @@
 const publications = [
 	{
+		title: "Can LLMs Predict Citation Intent? An Experimental Analysis of In-context Learning and Fine-tuning on Open LLMs",
+		authors: "P. Koloveas, S. Chatzopoulos, T. Vergoulis, C. Tryfonopoulos",
+		year: 2025, 
+		venue: "International Conference on Theory and Practice of Digital Libraries (TPDL)",
+		links: {
+			// article: "https://doi.org/10.1016/j.procs.2024.11.073"
+			// video:
+			// slides:
+			// code:
+			// data:
+			// demo:
+		}
+	},
+		{
+		title: "From raw affiliations to organization identifiers",
+		authors: "M. Kallipoliti, S. Chatzopoulos, M. Baglioni, E. Adamidi, P. Koloveas, T. Vergoulis",
+		year: 2025, 
+		venue: "International Conference on Theory and Practice of Digital Libraries (TPDL)",
+		links: {
+			// article: "https://doi.org/10.1016/j.procs.2024.11.073"
+			// video:
+			// slides:
+			// code:
+			// data:
+			// demo:
+		}
+	},
+	{
 		title: "A PID Metaresolver to enable accurate citation and attribution of digital objects by providing reliable access to metadata and associated resources",
 		authors: "S. Bingert, A. R. Sajedi, T. Zamani, K. Kagkelidis, F. Basios, S. Chatzopoulos",
 		year: 2024, 
