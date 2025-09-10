@@ -1,5 +1,19 @@
 const publications = [
 	{
+		title: "InsightGUIDE: An Opinionated AI Assistant for Guided Critical Reading of Scientific Literature",
+		authors: "P. Koloveas, S. Chatzopoulos, T. Vergoulis, C. Tryfonopoulos",
+		year: 2025, 
+		venue: "IEEE International Conference on Tools with Artificial Intelligence (ICTAI)",
+		links: {
+			// article: "https://doi.org/10.1016/j.procs.2024.11.073"
+			// video:
+			// slides:
+			// code:
+			// data:
+			// demo:
+		}
+	},
+	{
 		title: "Can LLMs Predict Citation Intent? An Experimental Analysis of In-context Learning and Fine-tuning on Open LLMs",
 		authors: "P. Koloveas, S. Chatzopoulos, T. Vergoulis, C. Tryfonopoulos",
 		year: 2025, 
@@ -13,7 +27,7 @@ const publications = [
 			// demo:
 		}
 	},
-		{
+	{
 		title: "From raw affiliations to organization identifiers",
 		authors: "M. Kallipoliti, S. Chatzopoulos, M. Baglioni, E. Adamidi, P. Koloveas, T. Vergoulis",
 		year: 2025, 
