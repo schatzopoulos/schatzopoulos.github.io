@@ -1,11 +1,39 @@
 const publications = [
 	{
+		title: "Mapping the AI life sciences landscape in Greece: a bibliometric comparison with global patterns",
+		authors: "E. Adamidi, S. Chatzopoulos, A. C Dimopoulos, A. Krithara, A. Nentidis, N. Pechlivanis, F. Psomopoulos, T. Vergoulis, K. Vichos",
+		year: 2025, 
+		venue: "Nature Scientific Reports",
+		links: {
+			article: "https://www.nature.com/articles/s41598-026-56107-2"
+			// video:
+			// slides:
+			// code:
+			// data:
+			// demo:
+		}
+	},
+		{
+		title: "Merging Services for a Novel Neuroscience Knowledge Graph: Enhancing Data Integration and Tracking Research Impact",
+		authors: "A. Golla, M. Kobchenko, S. Pieschnik, I. Reiten, S. Chatzopoulos, C. Parra-Rojas, P. Accuosto, N. Duran-Silva, N. Yakovets, D. de Graaf, M. Baglioni, J. G Bjaalie, T/ Vergoulis, T. B Leergaard",
+		year: 2025, 
+		venue: "EBRAINS Summit",
+		links: {
+			article: "https://ebrains.eu/sites/default/files/downloads/2026/03/EBRAINS-Summit-2025-Book-of-Abstracts-Website.pdf#page=81"
+			// video:
+			// slides:
+			// code:
+			// data:
+			// demo:
+		}
+	},
+	{
 		title: "InsightGUIDE: An Opinionated AI Assistant for Guided Critical Reading of Scientific Literature",
 		authors: "P. Koloveas, S. Chatzopoulos, T. Vergoulis, C. Tryfonopoulos",
 		year: 2025, 
 		venue: "IEEE International Conference on Tools with Artificial Intelligence (ICTAI)",
 		links: {
-			// article: "https://doi.org/10.1016/j.procs.2024.11.073"
+			article: "https://arxiv.org/pdf/2509.20493"
 			// video:
 			// slides:
 			// code:
@@ -19,7 +47,7 @@ const publications = [
 		year: 2025, 
 		venue: "International Conference on Theory and Practice of Digital Libraries (TPDL)",
 		links: {
-			// article: "https://doi.org/10.1016/j.procs.2024.11.073"
+			article: "https://arxiv.org/pdf/2502.14561"
 			// video:
 			// slides:
 			// code:
@@ -33,7 +61,7 @@ const publications = [
 		year: 2025, 
 		venue: "International Conference on Theory and Practice of Digital Libraries (TPDL)",
 		links: {
-			// article: "https://doi.org/10.1016/j.procs.2024.11.073"
+			article: "https://arxiv.org/pdf/2505.07577"
 			// video:
 			// slides:
 			// code:
