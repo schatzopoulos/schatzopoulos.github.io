@@ -2,7 +2,7 @@ const publications = [
 	{
 		title: "Mapping the AI life sciences landscape in Greece: a bibliometric comparison with global patterns",
 		authors: "E. Adamidi, S. Chatzopoulos, A. C Dimopoulos, A. Krithara, A. Nentidis, N. Pechlivanis, F. Psomopoulos, T. Vergoulis, K. Vichos",
-		year: 2025, 
+		year: 2026, 
 		venue: "Nature Scientific Reports",
 		links: {
 			article: "https://www.nature.com/articles/s41598-026-56107-2"
@@ -15,7 +15,7 @@ const publications = [
 	},
 		{
 		title: "Merging Services for a Novel Neuroscience Knowledge Graph: Enhancing Data Integration and Tracking Research Impact",
-		authors: "A. Golla, M. Kobchenko, S. Pieschnik, I. Reiten, S. Chatzopoulos, C. Parra-Rojas, P. Accuosto, N. Duran-Silva, N. Yakovets, D. de Graaf, M. Baglioni, J. G Bjaalie, T/ Vergoulis, T. B Leergaard",
+		authors: "A. Golla, M. Kobchenko, S. Pieschnik, I. Reiten, S. Chatzopoulos, C. Parra-Rojas, P. Accuosto, N. Duran-Silva, N. Yakovets, D. de Graaf, M. Baglioni, J. G Bjaalie, T. Vergoulis, T. B Leergaard",
 		year: 2025, 
 		venue: "EBRAINS Summit",
 		links: {
